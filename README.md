@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inkahirsila
 - 👀 I’m interested in learning as much as possible from this field through professional experience, because i'm still at the beginner-level.
-- 🌱 I’m currently studying infromation technology, specifically software development.
+- 🌱 I’m currently studying information technology, specifically software development.
 - 💞️ I’m looking to collaborate on projects related to health technology. I am interested in design, testing and production.
 - 📫 You can reach me via email t1hiin00@students.oamk.fi or inka.hirsila@gmail.com.
 
